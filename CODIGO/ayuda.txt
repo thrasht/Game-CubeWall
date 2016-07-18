@@ -1,0 +1,4 @@
+PARED APLASTA CUBOS!
+El juego es de modo supervivencia, tienes que posicionar el cubo jugador sobre el hueco de la pared que va cayendo, si lo logras hacer antes de que la pared llegue hasta abajo se incrementara tu marcador, de lo contrario perderas la partida.
+En el juego cada vez que la pared de cubos llega hasta abajo la figura cambia, hay cuatro figuras diferentes que corresponden a las mas comunes en el juego tetris; un cuadrado, una linea, la letra L y la letra T
+Cada vez que el marcador llega a determinados puntos la velocidad de la pared va en aumento asi que hay que pensar mas rapido para poder atinar al hueco.
